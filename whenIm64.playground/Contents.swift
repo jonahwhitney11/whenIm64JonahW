@@ -20,4 +20,4 @@ class Person {
 
 let Jonah = Person(name: "Jonah", birthYear: 1987)
 
-Jonah.yearIm64(birthYear: Jonah.birthYear)
+Jonah.yearIm64(birthYear: Jonah.birthYear) // prints "Jonah will be 64 in the year 2051"
